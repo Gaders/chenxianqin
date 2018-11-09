@@ -1,0 +1,149 @@
+#first {
+    height: 65;
+    width: 100%;
+    background-color:#D1E9E9;
+    display:inline-block;
+}
+#first1{
+    float: left;
+    
+}
+#first2 {
+    width: 230;
+    margin-left: 20;
+    margin-top: 13;
+    display: inline-block;
+    font-size: 11;
+    z-index: 10;
+        
+    
+    
+}
+
+
+#second {
+    height:38;
+    width:100% ;
+    background-color: #00AA88;
+    color:white;
+    }
+#second1 {
+    margin-left: 170;
+    color: white;
+}    
+#third {
+    height: 370;
+    width: 100%;
+    background-color:azure
+}
+#fourth {
+    width: 100%;
+    height: 113;
+    background-color:#2F4F4F;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 11;
+    line-height: 2;
+    text-align: center;
+
+}
+* {
+    margin: 0;
+}
+
+.anniu {
+    height: 100%;
+    width: 95;
+    font-size: 15;
+    background-color: #00AA88;
+    border: 0 transparent;
+    color: white;
+    
+}
+
+.anniu:hover{
+    background-color: black;
+}
+
+
+.anniu1 {
+    width: 30;
+    height: 20;
+    border: 0 transparent;
+    border-radius: 0 20% 20% 0 ;
+    background: url(./search.png)  no-repeat center;
+    background-color: green;
+    
+}
+
+.wbk1 {
+    
+    width: 200;
+    height: 20;
+    margin-right: 0;
+    border-width: 2;
+    border-radius: 3% 0 0 3%;
+    border: transparent
+
+}
+#first3-1{
+    width: 100;
+    height: 20;
+    
+    background-color:#D1E9E9;
+    font-size: 10;
+    margin-left: 280;
+    
+}
+#first3-2{
+    width: 300;
+    height: 20;
+    margin-left: 80;
+    background-color:#D1E9E9;
+    font-size: 10;
+    margin-top: 0;
+    z-index: 2;
+}
+#first3 {
+    width: 500;
+    height: 40;
+    float: right;
+    margin-top: 23;
+}
+
+span{
+    color: orange;
+}
+
+
+#fifth {
+    width: 380;
+    height: 300;
+    background-color: black;
+    position: absolute;
+    left: 170;
+    top: 145;
+    
+}
+
+.text4 {
+    width: 60;
+    height: 23;
+    background-color: orange;
+    border-radius: 10%;
+    font-size: 12;
+    border-width: 2;
+    border: 0 transparent;
+    position: relative;
+    left: 220;
+    bottom: 20;
+
+}
+
+
+a {
+    text-decoration: none;
+    color: rgb(149,159,159);
+}
+
